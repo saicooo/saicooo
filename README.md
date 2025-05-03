@@ -54,7 +54,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicooo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-### 🧠 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
