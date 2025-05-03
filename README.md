@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm [Mahmoud Hanafy] </h1>
-<p align="center"> Software engineering student of ETU "LETI" </p>
+<p align="center"> Part-time backend developer</p>
 
 ---
 
