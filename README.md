@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm [Mahmoud Hanafy] 👋</h1>
+<h1 align="center">Hi, I'm [Mahmoud Hanafy] </h1>
 <p align="center">💻 Programmer • 🔬 Student • 🧠 Lifelong Learner</p>
 
 ---
 
-## 🧰 Tech Stack:
+## 🧰 SAICO's Quest:
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -32,26 +32,26 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Langs">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saicooo&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api?username=saicooo&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
 ---
 
 ## 📌 Pinned Projects
 
-- 🔹 [**piaa_repo**](https://github.com/YourUsername/piaa_repo): Files for CLRS labs (Python)
-- 🔹 [**sea_battle**](https://github.com/YourUsername/sea_battle): OOP C++ game project (C++)
-- 🔹 [**BomberMan**](https://github.com/YourUsername/BomberMan): Open-source Bomberman (Python)
-- 🔹 [**Proplaner**](https://github.com/YourUsername/Proplaner): PyQt note app (Python)
-- 🔹 [**WinApp**](https://github.com/YourUsername/WinApp): Software downloader app (Python)
+- 🔹 [**piaa_repo**](https://github.com/saicooo/piaa_repo): Files for CLRS labs (Python)
+- 🔹 [**sea_battle**](https://github.com/saicooo/sea_battle): OOP C++ game project (C++)
+- 🔹 [**BomberMan**](https://github.com/saicooo/BomberMan): Open-source Bomberman (Python)
+- 🔹 [**Proplaner**](https://github.com/saicooo/Proplaner): PyQt note app (Python)
+- 🔹 [**WinApp**](https://github.com/saicooo/WinApp): Software downloader app (Python)
 
 ---
 
 ## 🗓️ Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saicooo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
