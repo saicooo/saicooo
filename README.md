@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm [Mahmoud Hanafy] 👋</h1>
 <p align="center">💻 Programmer • 🔬 Student • 🧠 Lifelong Learner</p>
 
 ---
