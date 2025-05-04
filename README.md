@@ -28,7 +28,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nex3&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadronCollider&layout=compact&theme=tokyonight" alt="Top Langs">
 </p>
 
 
