@@ -32,7 +32,6 @@
 ---
 
 
-<h1 align="left">Technical Course:</h1>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saicooo" alt="saicooo" /></a> </p>
