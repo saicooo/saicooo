@@ -44,11 +44,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saicooo&show_icons=true&locale=en&layout=compact" alt="saicooo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saicooo&show_icons=true&locale=en" alt="saicooo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saicooo&" alt="saicooo" /></p>
 
 
 
