@@ -41,11 +41,7 @@
 - 📫 How to reach me **ma.hanafy3424@gmail.com**
 
 
-<div class="glow-container">
-  <h1 class="glow-text">SAICO</h1>
-</div>
 
-<img src="https://your-image-link.gif" alt="SAICO Logo" width="300"/>
 
 
 
