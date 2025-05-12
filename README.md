@@ -43,6 +43,7 @@ age of 12
 	: Linux
 	: Typescript
 	: Python
+	: JAVA      
 age of 13
 	: Godot
 	: Flutter
