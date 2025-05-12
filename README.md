@@ -26,6 +26,30 @@
 
 ---
 
+```mermaid
+timeline
+title My Journey
+age of 10
+	: HTML
+	: CSS
+	: Javascript
+	: Discord.js
+age of 11
+	: C
+	: C++
+	: C#
+	: Unity
+age of 12
+	: Linux
+	: Typescript
+	: Python
+age of 13
+	: Godot
+	: Flutter
+	: Dart
+	: Rust
+```
+
 
 
 
