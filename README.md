@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm [Mahmoud Hanafy] </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=000000&background=FFFFFF00&lines=Backend+Developer;" /> <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=blue&background=FFFFFF00&lines=Backend+Developer;" /> <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 </p>
