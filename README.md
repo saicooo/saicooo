@@ -2,11 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&size=28&color=000000&background=FFFFFF00&lines=Backend+Developer;" />
 
- <img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhie-boop&show_icons=true&locale=en&layout=compact&theme=dark" alt="dhie-boop" />
-
-
 
 </p>
 
